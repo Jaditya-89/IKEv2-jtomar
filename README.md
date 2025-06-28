@@ -1,7 +1,8 @@
 # IKEv2_Code
 
 
-This is a bare minimum snippet of the larger basic IKE/IPSec implementation using external packages from
+This is a bare minimum snippet (since this was part of exploration for my company so i had to remove some confidential info)
+of the larger basic IKE/IPSec implementation using external packages from
 n3iwf. There could be overlap of name of the methods, but they would have different signatures for this specific PoC to work.
 Since, this code has not been touched for long time, it might be outdated or not run properly.
 
